@@ -2,7 +2,6 @@ import React from 'react'
 import { IoChevronForwardSharp } from 'react-icons/io5'
 import GenresList from '../Constant/GenresList'
 import MovieList from './MoviesList'
-
 // import MovieListSkelton from './MovieListSkelton'
 
 function GenreMovieList() {
